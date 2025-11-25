@@ -2,8 +2,8 @@
 
 ## KR3(korean restaurant review with ratings) 공개 데이터셋
 - https://github.com/yejoon-lee/kr3?tab=readme-ov-file#where-to-download-the-dataset
-- 파일명 : kr3_filtered_utf8.csv
 - https://drive.google.com/drive/folders/1rfrcrT08bIA1nBUeJxfxkxqjI7Z9L4B8?usp=drive_link
+- 파일명 : kr3_filtered_utf8.csv
 - 공개 데이터셋
 - 총 64만 행, 약 200MB
 - 리뷰 단위 라벨링
@@ -29,8 +29,8 @@ ex) 고기가 육즙이 가득하고 정말 맛있었어요! 가격이 조금 �
 
   
 ## KR3_sentence_label 데이터셋
-- 파일명 : kr3_sentence_label(add).csv
 - https://drive.google.com/drive/folders/1rfrcrT08bIA1nBUeJxfxkxqjI7Z9L4B8?usp=drive_link
+- 파일명 : kr3_sentence_label(add).csv
 - 직접 라벨링한 데이터셋
 - 총 1470 행, 약 130KB
 - 문장 단위 라벨링
