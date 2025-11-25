@@ -52,7 +52,7 @@ ex) 고기가 육즙이 가득하고 정말 맛있었어요! 가격이 조금 �
   
 ### 부정 문장 비율 박스플롯(boxplot)
 
-![Negative sentence ratio boxplot](assignment4/data/neg_ratio_boxplot.png) 
+![Negative sentence ratio boxplot](data/neg_ratio_boxplot.png) 
 
 #### 박스 플롯의 해석
 - 주황색 선 : 중앙값(Median)
@@ -72,7 +72,7 @@ ex) 고기가 육즙이 가득하고 정말 맛있었어요! 가격이 조금 �
 
 ### 부정 문장 비율 히스토그램(histogram)
 
-![Negative sentence ratio histogram](assignment4/data/neg_ratio_hist.png)
+![Negative sentence ratio histogram](data/neg_ratio_hist.png)
 
 - 부정 리뷰 대부분은 부정 문장으로 이루어져 있으나, 간혹 긍정 문장이 포함되어 있기도 합니다.
 - 긍정 리뷰도 마찬가지로 간혹 부정 문장을 포함하며, 그 빈도는 부정 리뷰보다 높은 것 같습니다.
